@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =====================================================
-# ⚠️ Avertissement :
+# Avertissement :
 # Ce script a été conçu dans un cadre purement éducatif,
 # dans le cadre d'un TP pour l'école ESGI / Sciences U Lyon.
 # Toute utilisation non autorisée ou malveillante est strictement interdite.
